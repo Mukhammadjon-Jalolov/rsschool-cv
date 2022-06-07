@@ -37,6 +37,11 @@ console.log(r)
 ```
 *****
 ### Work experience: 
+**Senior specialist in Compensations and Benefits at Beeline Uzbekistan: July 2019 - January 2020**  
+- Responsible for large scale KPI calculations of employees within a country  
+- Creating macros for office automation  
+- Working with documentations
+
 **QA Manager at Bitwise: February 2020 - September 2020**  
 - Responsible for the quality of the web applications as a QA Manager. - Supervising my small team of testers who were manually testing applications.
 - Creating specification documentation
