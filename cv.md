@@ -2,14 +2,11 @@
 ****
 **Frontend developer**
 ****
-**Contact information:**
-Phone: myphonenumber
-
-Email: mjalolov1305@gmail.com
-
-Telegram: mytelegramaccount
-
-LinkedIn: https://www.linkedin.com/in/mukhammadjon-jalolov/
+**Contact information:** 
+**Phone:** myphonenumber
+**Email:** mjalolov1305@gmail.com
+**Telegram:** mytelegramaccount
+**LinkedIn:** https://www.linkedin.com/in/mukhammadjon-jalolov/
 *****
 ### About myself:
 
@@ -21,3 +18,21 @@ I appreciate my time spending with RS School and exercises done. I believe after
 
 *****
 ### Skills 
+* HTML5, CSS3
+* JavaScript
+* ReactJS
+* PHP, Python
+* Git, Github
+* Jira, 
+* Corel Draw, Adobe Photoshop
+*****
+### Code example 
+
+### Work experience 
+**QA Manager at Bitwise:** I had a work experience as a QA Manager where I was responsible for the quality of the web applications. I had a small team of testers who were manually testing applications.
+
+### Languages: 
+* Uzbek: Native 
+* English: Fluent (C1) 
+* Russian: Conversational (B2) 
+* German: Basic
