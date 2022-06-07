@@ -37,7 +37,16 @@ console.log(r)
 ```
 *****
 ### Work experience: 
-**QA Manager at Bitwise:** I had a work experience as a QA Manager where I was responsible for the quality of the web applications. I had a small team of testers who were manually testing applications.
+**QA Manager at Bitwise: February 2020 - September 2020**  
+- Responsible for the quality of the web applications as a QA Manager. - Supervising my small team of testers who were manually testing applications.
+- Creating specification documentation
+- Creating test cases
+
+**Manager of ICT department, Retraining Institute: September 2020 - June 2022**  
+- I was responsible for the hardware equipment of the institute
+- Development of a website of the institute
+- Creation of LMS as a developer
+
 *****
 ### Languages: 
 * Uzbek: Native 
