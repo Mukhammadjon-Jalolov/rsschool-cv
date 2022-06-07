@@ -26,7 +26,7 @@ I appreciate my time spending with RS School and exercises done. I believe after
 * Git, Github
 * Jira
 * Corel Draw, Adobe Photoshop
-*****
+
 ### Code example: 
 ```
 let x = function(a, b){
