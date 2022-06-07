@@ -1,8 +1,8 @@
 # Mukhammadjon Jalolov
 ****
-**Frontend developer**
+#### Frontend developer
 ****
-**Contact information:** 
+### Contact information: 
 **Phone:** myphonenumber
 **Email:** mjalolov1305@gmail.com
 **Telegram:** mytelegramaccount
@@ -28,9 +28,10 @@ I appreciate my time spending with RS School and exercises done. I believe after
 *****
 ### Code example 
 
+*****
 ### Work experience 
 **QA Manager at Bitwise:** I had a work experience as a QA Manager where I was responsible for the quality of the web applications. I had a small team of testers who were manually testing applications.
-
+*****
 ### Languages: 
 * Uzbek: Native 
 * English: Fluent (C1) 
