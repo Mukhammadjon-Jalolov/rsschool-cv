@@ -1,4 +1,4 @@
-## Mukhammadjon Jalolov
+# Mukhammadjon Jalolov
 ****
 **Frontend developer**
 ****
@@ -7,7 +7,7 @@ Phone: myphonenumber
 Email: mjalolov1305@gmail.com
 Telegram: mytelegramaccount
 LinkedIn: https://www.linkedin.com/in/mukhammadjon-jalolov/
-=====
+*****
 ### About myself:
 
 I have a Bachelor's and Master's degrees in Computer Science with a passion in modern technologies. I have had interest in web development since my College years when I first practiced Turbo Pascal programming language. Gradually my interest in programming has increased and I started to learn PHP, C++ later on. However, my real motivation in learning JavaScript programming language emerged a few years ago. 
