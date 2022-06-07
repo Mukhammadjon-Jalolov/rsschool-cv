@@ -1,13 +1,13 @@
 # Mukhammadjon Jalolov
 ****
-#### Frontend developer
+## Frontend developer
 ****
 ### Contact information: 
 **Phone:** myphonenumber  
 **Email:** mjalolov1305@gmail.com  
 **Telegram:** mytelegramaccount  
-**LinkedIn:** https://www.linkedin.com/in/mukhammadjon-jalolov/
-
+**LinkedIn:** https://www.linkedin.com/in/mukhammadjon-jalolov/  
+**Personal Website:** https://dreamlocation.uz/
 *****
 ### About myself:
 
@@ -18,16 +18,16 @@ I decided to become a JavaScript Frontend Developer during my Master's study yea
 I appreciate my time spending with RS School and exercises done. I believe after completing this course I will have solid experience and can start my career as a JS Frontend developer
 
 *****
-### Skills 
+### Skills: 
 * HTML5, CSS3
 * JavaScript
 * ReactJS
 * PHP, Python
 * Git, Github
-* Jira, 
+* Jira
 * Corel Draw, Adobe Photoshop
 *****
-### Code example 
+### Code example: 
 ```
 let x = function(a, b){
     return a + b;
@@ -36,7 +36,7 @@ let r = x(51, 23);
 console.log(r)
 ```
 *****
-### Work experience 
+### Work experience: 
 **QA Manager at Bitwise:** I had a work experience as a QA Manager where I was responsible for the quality of the web applications. I had a small team of testers who were manually testing applications.
 *****
 ### Languages: 
