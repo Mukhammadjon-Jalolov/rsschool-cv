@@ -3,10 +3,11 @@
 #### Frontend developer
 ****
 ### Contact information: 
-**Phone:** myphonenumber
-**Email:** mjalolov1305@gmail.com
-**Telegram:** mytelegramaccount
+**Phone:** myphonenumber  
+**Email:** mjalolov1305@gmail.com  
+**Telegram:** mytelegramaccount  
 **LinkedIn:** https://www.linkedin.com/in/mukhammadjon-jalolov/
+
 *****
 ### About myself:
 
@@ -27,7 +28,13 @@ I appreciate my time spending with RS School and exercises done. I believe after
 * Corel Draw, Adobe Photoshop
 *****
 ### Code example 
-
+```
+let x = function(a, b){
+    return a + b;
+}
+let r = x(51, 23);
+console.log(r)
+```
 *****
 ### Work experience 
 **QA Manager at Bitwise:** I had a work experience as a QA Manager where I was responsible for the quality of the web applications. I had a small team of testers who were manually testing applications.
