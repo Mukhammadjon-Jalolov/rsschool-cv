@@ -55,8 +55,6 @@ console.log(r)
 **Experience in creating web applications using React**  
 My personal travel website https://dreamlocation.uz was fully developed and deployed independently using React, PHP and MySQL. This is my first independent project. The next ones are coming soon.  
 **Website repository:** https://github.com/Mukhammadjon-Jalolov/dreamlocations  
-**The screenshot from the site:**  
-![screenshot](/screencapture-github-Mukhammadjon-Jalolov-rsschool.PNG "Screnshot of a site")
 
 *****
 ### Languages: 
