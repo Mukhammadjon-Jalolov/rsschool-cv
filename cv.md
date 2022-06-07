@@ -47,6 +47,10 @@ console.log(r)
 - Development of a website of the institute
 - Creation of LMS as a developer
 
+**Experience in creating web applications using React**  
+My personal travel website https://dreamlocation.uz was fully developed and deployed independently using React, PHP and MySQL. This is my first independent project. The next ones are coming soon.  
+**Website repository:** https://github.com/Mukhammadjon-Jalolov/dreamlocations
+
 *****
 ### Languages: 
 * Uzbek: Native 
