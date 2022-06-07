@@ -2,10 +2,13 @@
 ****
 **Frontend developer**
 ****
-**Contact information**
+**Contact information:**
 Phone: myphonenumber
+
 Email: mjalolov1305@gmail.com
+
 Telegram: mytelegramaccount
+
 LinkedIn: https://www.linkedin.com/in/mukhammadjon-jalolov/
 *****
 ### About myself:
