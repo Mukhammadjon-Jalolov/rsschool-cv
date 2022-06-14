@@ -35,3 +35,12 @@ h2,h3 {
     border: 3px solid yellowgreen;
     border-radius: 20px;
 }
+
+header {
+    background-color: azure;
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: slategray;
+}
