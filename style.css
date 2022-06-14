@@ -2,3 +2,9 @@
     color: aquamarine;
     text-align: center;
 }
+
+.text {
+    color: blueviolet;
+    padding: 10px;
+    text-align: justify;
+}

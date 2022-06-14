@@ -16,7 +16,7 @@ I have a Bachelor's and Master's degrees in Computer Science with a passion in m
 I decided to become a JavaScript Frontend Developer during my Master's study years. However, this would take much effort, dedication and experience to start a career as a JS developer. Therefore, I chose RS School to boost my knowledge and in-depth understanding of the field by real tasks.
 
 I appreciate my time spending with RS School and exercises done. I believe after completing this course I will have solid experience and can start my career as a JS Frontend developer
-
+</div>
 *****
 ### Skills: 
 * HTML5, CSS3
