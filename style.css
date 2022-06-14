@@ -7,3 +7,12 @@ h2,h3 {
     color: blueviolet;
     text-align: justify;
 }
+
+.codeDiv {
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.skills {
+    font-size: medium;
+}
